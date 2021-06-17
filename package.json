@@ -1,0 +1,20 @@
+{
+  "name": "apontatu",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=testing jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "esm": "^3.2.25",
+    "jest": "^27.0.4"
+  }
+}
